@@ -2,11 +2,12 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
-mysql:5.7.18
-quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
-redis:7.2.4
+#docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+#mysql:5.7.18
+#quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+#redis:7.2.4
 #swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow:v0.9.0
-kibana:8.11.3
+#kibana:8.11.3
+edwardelric233/ragflow:oc9
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
