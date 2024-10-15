@@ -33,8 +33,9 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
-linzeyi/hivision_idphotos
+#linzeyi/hivision_idphotos
 #kibana:8.11.3
 #edwardelric233/ragflow:oc9
+nvidia/cuda:12.4.0-runtime-ubuntu20.04
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
