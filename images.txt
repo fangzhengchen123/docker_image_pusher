@@ -36,6 +36,7 @@
 #linzeyi/hivision_idphotos
 #kibana:8.11.3
 #edwardelric233/ragflow:oc9
-nvidia/cuda:12.4.0-runtime-ubuntu20.04
+#nvidia/cuda:12.4.0-runtime-ubuntu20.04
+ghcr.io/binary-husky/gpt_academic_with_all_capacity:master
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
