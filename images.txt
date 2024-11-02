@@ -41,6 +41,7 @@
 #mysql/mysql-server
 #eosphorosai/dbgpt:latest
 #ollama/ollama
-lscr.io/linuxserver/webtop:latest
+#lscr.io/linuxserver/webtop:latest
+lscr.io/linuxserver/webtopubuntu-xfce
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
