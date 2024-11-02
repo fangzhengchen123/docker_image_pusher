@@ -40,6 +40,7 @@
 #ghcr.io/binary-husky/gpt_academic_with_all_capacity:master
 #mysql/mysql-server
 #eosphorosai/dbgpt:latest
-ollama/ollama
+#ollama/ollama
+lscr.io/linuxserver/webtop:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
