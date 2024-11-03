@@ -45,6 +45,7 @@
 #lscr.io/linuxserver/webtopubuntu-xfce
 #linuxserver/webtop:ubuntu-xfce
 #linuxserver/webtop:ubuntu-mate
-linuxserver/webtop:ubuntu-kde
+#linuxserver/webtop:ubuntu-kde
+kasmweb/ubuntu-bionic-desktop
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
