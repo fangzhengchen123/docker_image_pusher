@@ -46,6 +46,9 @@
 #linuxserver/webtop:ubuntu-xfce
 #linuxserver/webtop:ubuntu-mate
 #linuxserver/webtop:ubuntu-kde
-kasmweb/ubuntu-bionic-desktop:1.10.0
+#kasmweb/ubuntu-bionic-desktop:1.10.0
+bitnami/etcd:3.4.28
+xshengtech/gpu-docker-api:latest
+postgres:16-alpine
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
