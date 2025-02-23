@@ -47,8 +47,10 @@
 #linuxserver/webtop:ubuntu-mate
 #linuxserver/webtop:ubuntu-kde
 #kasmweb/ubuntu-bionic-desktop:1.10.0
-bitnami/etcd:3.4.28
-xshengtech/gpu-docker-api:latest
-postgres:16-alpine
+#bitnami/etcd:3.4.28
+#xshengtech/gpu-docker-api:latest
+#postgres:16-alpine
+xshengtech/megrez:ubuntu-22.04
+xshengtech/megrez:pytorch-2.3.1_cuda-12.1_python-3.11_ubuntu-22.04
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
